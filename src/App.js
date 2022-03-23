@@ -78,7 +78,7 @@ const App = () => {
       </Subtitle>
 
       <Subtitle hidden={!isError}>
-        Connection error occured, possible because of free-tier limit, please
+        Connection error occured, because of free-tier limit, please
         retry in approximately one minute...
       </Subtitle>
 
