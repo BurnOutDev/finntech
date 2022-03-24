@@ -4,4 +4,6 @@
 
 Used Redux Toolkit, styled-components, [Recharts](https://recharts.org)
 
+`.env` file is included
+
 [See in action](https://finntech.herokuapp.com)

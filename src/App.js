@@ -82,7 +82,7 @@ const App = () => {
         retry in approximately one minute...
       </Subtitle>
 
-      <StockContainer hidden={!isDataLoaded}>
+      <StockContainer>
         <Stock
           data={swedishKroneStocks}
           header="SEK/USD"
